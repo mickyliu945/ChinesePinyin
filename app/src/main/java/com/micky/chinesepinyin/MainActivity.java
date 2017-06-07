@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                             long startTime = System.currentTimeMillis();
                             List<String> pinyinList = pinyin.getPinyin(source);
                             String tip = "字数" + source.length() +", 耗时：" + (System.currentTimeMillis() - startTime) + "毫秒\n";
-                            Log.e(TAG, tip);
+                            Log.i(TAG, tip);
 
                             final StringBuffer sb = new StringBuffer(tip);
                             for (String str : pinyinList) {
