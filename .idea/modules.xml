@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChinesePinyin.iml" filepath="$PROJECT_DIR$/ChinesePinyin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyin4j/pinyin4j.iml" filepath="$PROJECT_DIR$/pinyin4j/pinyin4j.iml" />
+    </modules>
+  </component>
+</project>

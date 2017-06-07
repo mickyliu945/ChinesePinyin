@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChinesePinyin</string>
+    <string name="start_parse">Start Parse</string>
+</resources>
