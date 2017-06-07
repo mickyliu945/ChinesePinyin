@@ -1,4 +1,4 @@
 # ChinesePinyin
 Chinese to pinyin
 ====
-![image](https://github.com/mickyliu945/CommonProj/raw/master/screenshots/a.png)
+![image](https://github.com/mickyliu945/ChinesePinyin/raw/master/screenshots/device.png)
