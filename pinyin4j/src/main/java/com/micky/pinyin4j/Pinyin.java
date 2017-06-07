@@ -73,7 +73,7 @@ public class Pinyin {
                 return String.valueOf(str).toLowerCase();
             }
         }
-        return "";
+        return String.valueOf(c);
     }
 
     public void init(Context context) {
